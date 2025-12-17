@@ -21,7 +21,7 @@ export const sendMessageToAngela = async (history: {role: string, parts: string}
   }
 
   try {
-    const model = 'gemini-2.5-flash';
+    const model = 'gemini-2.5-flash-lite';
     
     // Transform simple history to format required by Chat (optional, but generateContent is stateless, so we build prompt or use chat)
     // For simplicity in this static context, we will use a stateless generateContent with system instruction 
