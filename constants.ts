@@ -17,7 +17,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-amber-600',
     textColor: 'text-amber-600',
     icon: 'Activity',
-    imageUrl: 'public\\MalkuthFullBody.png'
+    imageUrl: 'public/MalkuthFullBody.png'
   },
   {
     id: 'info',
@@ -27,7 +27,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-violet-700',
     textColor: 'text-violet-700',
     icon: 'Eye',
-    imageUrl: 'public\\YesodFullBody.png'
+    imageUrl: 'public/YesodFullBody.png'
   },
   {
     id: 'training',
@@ -37,7 +37,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-orange-400',
     textColor: 'text-orange-400',
     icon: 'BookOpen',
-    imageUrl: 'public\\Hod_fullbody.png'
+    imageUrl: 'public/Hod_fullbody.png'
   },
   {
     id: 'security',
@@ -47,7 +47,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-green-500',
     textColor: 'text-green-500',
     icon: 'Shield',
-    imageUrl: 'public\\NetzachFullBody.png'
+    imageUrl: 'public/NetzachFullBody.png'
   },
   {
     id: 'central',
@@ -57,7 +57,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-yellow-400',
     textColor: 'text-yellow-400',
     icon: 'Hexagon',
-    imageUrl: 'public\\Tiphereth_fullbody_A.png'
+    imageUrl: 'public/Tiphereth_fullbody_A.png'
   },
   {
     id: 'disciplinary',
@@ -67,7 +67,7 @@ export const DEPARTMENTS: Department[] = [
     color: 'border-red-700',
     textColor: 'text-red-700',
     icon: 'Sword',
-    imageUrl: 'public\\Gebura_fullbody.png'
+    imageUrl: 'public/Gebura_fullbody.png'
   }
 ];
 
@@ -78,7 +78,7 @@ export const ABNORMALITIES: Abnormality[] = [
     name: 'One Sin and Hundreds of Good Deeds',
     riskLevel: 'ZAYIN',
     description: 'A skull floating in the air, crowned with thorns. It feeds on confessions.',
-    imageUrl: 'public\\OneSinCloseUp.webp'
+    imageUrl: 'public/OneSinCloseUp.webp'
   },
   {
     id: 'punishing',
@@ -86,7 +86,7 @@ export const ABNORMALITIES: Abnormality[] = [
     name: 'Punishing Bird',
     riskLevel: 'TETH',
     description: 'A small bird with a red belly. People have been punished for touching it.',
-    imageUrl: 'public\\PunishingBirdPortrait.webp'
+    imageUrl: 'public/PunishingBirdPortrait.webp'
   },
   {
     id: 'nothingthere',
@@ -94,7 +94,7 @@ export const ABNORMALITIES: Abnormality[] = [
     name: 'Nothing There',
     riskLevel: 'ALEPH',
     description: 'It mimics human form but cannot mimic the human heart. Extremely dangerous.',
-    imageUrl: 'public\\NothingThereCloseUp.webp'
+    imageUrl: 'public/NothingThereCloseUp.webp'
   },
   {
     id: 'bluestar',
@@ -102,7 +102,7 @@ export const ABNORMALITIES: Abnormality[] = [
     name: 'Blue Star',
     riskLevel: 'ALEPH',
     description: 'A star that draws all things into its core. The sound of salvation is deafening.',
-    imageUrl: 'public\\Blue_Star_Crop.webp'
+    imageUrl: 'public/Blue_Star_Crop.webp'
   }
 ];
 
